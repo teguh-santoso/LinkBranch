@@ -1,0 +1,32 @@
+.facebook a {
+	background: rgb(88, 135, 255, 0.8);
+	
+}
+
+.facebook a:hover {
+	background: rgb(88, 135, 255, 1.0);
+}
+
+.instagram a {
+	background: rgb(131,58,180, 0.8);
+}
+
+.instagram a:hover {
+	background: rgb(131,58,180, 1.0);
+}
+
+.shopee a {
+	background: rgb(255, 102, 0, 0.8);
+}
+
+.shopee a:hover {
+	background: rgb(255, 102, 0, 1.0);
+}
+
+.tokopedia a {
+	background: rgb(66, 181, 73, 0.8);
+}
+
+.tokopedia a:hover {
+	background: rgb(66, 181, 73, 1.0);
+}
